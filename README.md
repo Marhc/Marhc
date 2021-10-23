@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi there 🎉
 
-- 🔭 I’m currently working on ... Backend Web (Java) and DevOps (Jenkins / Gitlab CI)
-- 🌱 I’m currently learning ... Angular, React
+### I’m Marcio Coutinho -> Marhc 😎
+
+- 🔭 I’m currently working on ... 
+  - _Backend Web_ ... **Java**
+  - _DevOps_ ... **Jenkins** | **Gitlab CI**
+
+- 🌱 I’m currently learning ... **Angular** | **React**
 
 # Technologies
 
