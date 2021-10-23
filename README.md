@@ -2,11 +2,19 @@
 
 ### I’m Marcio Coutinho -> Marhc 😎
 
-- 🔭 I’m currently working on ... 
-  - _Backend Web_ ... **Java**
-  - _DevOps_ ... **Jenkins** | **Gitlab CI**
+I'm a brazilian Web Developer! 🇧🇷 <br/>
+I just took the first step on my DevOps journey. <br/>
+And now, I'm the youngest DevOps Junior on my team! 😆 <br/>
+
+- 🔭 I’m currently working on ... <br/>
+    - 🕸️  _Backend Web_ = **Java** <br/>
+    - 🧰  _DevOps_ = **Jenkins** | **Gitlab CI** <br/>
 
 - 🌱 I’m currently learning ... **Angular** | **React**
+
+🚀 Come on! You can reach me on...
+
+<a href="https://www.linkedin.com/in/marhc/" alt="Linkedin"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marhc/" /></a>
 
 # Technologies
 
