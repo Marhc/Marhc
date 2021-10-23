@@ -3,7 +3,7 @@
 ### I’m Marcio Coutinho -> Marhc 😎
 
 I'm a brazilian Web Developer! 🇧🇷 <br/>
-I just took the first step on my DevOps journey. <br/>
+I just took the first step on my DevOps journey. [Gitlab 101](https://gitlab.edcast.com/verify_badge/mhLWkhsb?user_id=1266568&edCast)<br/>
 And now, I'm the youngest DevOps Junior on my team! 😆 <br/>
 
 - 🔭 I’m currently working on ... <br/>
