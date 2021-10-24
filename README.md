@@ -70,6 +70,6 @@ And now, I'm the youngest DevOps Junior on my team! 😆 <br/>
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-0371e5?style=for-the-badge&logo=firebase)
+![Github Actions](https://img.shields.io/badge/GitHub_Actions-F2F4F9?style=for-the-badge&logo=github-actions)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Github Actions](https://img.shields.io/badge/GitHub_Actions-F2F4F9?style=for-the-badge&logo=github-actions)
