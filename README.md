@@ -8,8 +8,8 @@ I just took the first step on my DevOps journey. <br/>
 And now, I'm the youngest DevOps Junior on my team! 😆 <br/>
 
 - 🔭 I’m currently working on ... <br/>
-    - 🕸️  _Backend Web_ = **Java** <br/>
-    - 🧰  _DevOps_ = **Jenkins** | **Gitlab CI** <br/>
+    - 🕸️  _Backend Web_ = **Java** **JAX-RS** | **JPA** <br/>
+    - 🔃  _DevOps_ = **Jenkins** | **Gitlab CI** <br/>
 
 - 🌱 I’m currently learning ... **Angular** | **React**
 
