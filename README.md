@@ -15,7 +15,8 @@ And now, I'm the youngest DevOps Junior on my team! 😆 <br/>
 
 🚀 Come on! You can reach me on...
 
-<a href="https://www.linkedin.com/in/marhc/" alt="Linkedin"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marhc/" /></a>
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marhc/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marciohbc@gmail.com)
 
 # Technologies
 
