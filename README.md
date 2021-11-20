@@ -8,9 +8,9 @@ I just took the first step on my DevOps journey. <br/>
 And now, I'm the youngest DevOps Junior on my team! 😆 <br/>
 
 - 🔭 I’m currently working on ... <br/>
-    - 🕸️  _Backend Web_<br/> 
-          **Java** **JAX-RS (Jersey / Resteasy)**
-          **JPA (Hibernate)** <br/><br/>
+    - 🕸️  _Java Backend_<br/> 
+          **JAX-RS (Jersey / Resteasy)**<br/>
+          **JPA (Hibernate)** <br/>
     - 🔃  _DevOps_<br />
     **Jenkins** | **Gitlab CI** <br/>
 
