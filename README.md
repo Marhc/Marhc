@@ -12,9 +12,11 @@ And now, I'm the youngest DevOps Junior on my team! 😆 <br/>
           **JAX-RS (Jersey / Resteasy)**<br/>
           **JPA (Hibernate)** <br/>
     - 🔃  _DevOps_<br />
-    **Jenkins** | **Gitlab CI** <br/>
+          **Jenkins** | **Gitlab CI** <br/>
 
-- 🌱 I’m currently learning ... **Angular** | **React**
+- 🌱 I’m currently learning ... <br/>
+    - _Frontend Web_ <br/>
+    **Angular** | **React**
 
 🚀 Come on! You can reach me on...
 
