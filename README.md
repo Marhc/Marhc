@@ -9,8 +9,8 @@ And now, I'm the youngest DevOps Junior on my team! 😆 <br/>
 
 - 🔭 I’m currently working on ... <br/>
     - 🕸️  _Java Backend_<br/> 
-          **JAX-RS (Jersey | Resteasy)**<br/>
-          **JPA (Hibernate)** <br/>
+          **RESTful Services - JAX-RS (Jersey | Resteasy)**<br/>
+          **Persistence API - JPA (Hibernate)** <br/>
 
     - 🔃  _DevOps_<br />
           **Jenkins** | **Gitlab CI** <br/>
