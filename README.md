@@ -8,7 +8,7 @@ I just took the first step on my DevOps journey. <br/>
 And now, I'm the youngest DevOps Junior on my team! 😆 <br/>
 
 - 🔭 I’m currently working on ... <br/>
-    - 🕸️  _Angular Frontend_<br/> 
+    - :triangular_ruler: _Angular Frontend_<br/> 
           **PrimeNG Components**<br/>
 
     - 🕸️  _Java Backend_<br/> 
