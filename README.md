@@ -5,9 +5,9 @@
 I'm a brazilian Web Developer! 🇧🇷 <br/>
 I just took the first step on my DevOps journey. <br/>
 <a href="https://gitlab.edcast.com/verify_badge/mhLWkhsb?user_id=1266568&edCast" title="GitLab 101" alt="GitLab 101"><img width="7%" src="./gitlab101.png" alt="GitLab 101" /></a><br/>
-And now, I'm the youngest DevOps Junior on my team! 😆 <br/>
+And now, I'm the newest DevOps Junior on my team! 😆 <br/>
 
-- 🔭 I’m currently working on ... <br/>
+- 🔭 I’m currently working on... <br/>
     - :triangular_ruler: _Angular Frontend_<br/> 
           **PrimeNG Components**<br/>
 
@@ -17,12 +17,18 @@ And now, I'm the youngest DevOps Junior on my team! 😆 <br/>
 
     - 🔃  _DevOps_<br />
           **Jenkins** | **Gitlab CI** <br/>
+          **Grafana** | **Prometheus** <br/>
 
-- 🌱 I’m currently learning ... <br/>
+- 🌱 I’m also learning... <br/>
     - _Frontend Web_ <br/>
     **Angular** | **React**
+    
+    - _Artificial Intelligence_ <br/>
+    **Azure AI Platform** <br/>
+    **Kotlin Dataframes** <br/>
+    **Pandas** | **Matplotlib**
 
-🚀 Come on! You can reach me on...
+🚀 Come on! You can find me at...
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marhc/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marciohbc@gmail.com)
@@ -54,6 +60,9 @@ And now, I'm the youngest DevOps Junior on my team! 😆 <br/>
 ### Intermediate
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![VB.net](https://img.shields.io/badge/VB.net-1a6098?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -70,8 +79,6 @@ And now, I'm the youngest DevOps Junior on my team! 😆 <br/>
 ### Beginner 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -82,4 +89,3 @@ And now, I'm the youngest DevOps Junior on my team! 😆 <br/>
 ![Firebase](https://img.shields.io/badge/Firebase-0371e5?style=for-the-badge&logo=firebase)
 ![Github Actions](https://img.shields.io/badge/GitHub_Actions-F2F4F9?style=for-the-badge&logo=github-actions)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
