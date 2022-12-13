@@ -5,7 +5,7 @@
 I'm a brazilian Web Developer! 🇧🇷 <br/>
 I just took the first step on my DevOps journey. <br/>
 <a href="https://gitlab.edcast.com/verify_badge/mhLWkhsb?user_id=1266568&edCast" title="GitLab 101" alt="GitLab 101"><img width="7%" src="./gitlab101.png" alt="GitLab 101" /></a><br/>
-And now, I'm the newest DevOps Junior on my team! 😆 <br/>
+Now, I'm the newest DevOps Junior on my team! 😆 <br/>
 
 - 🔭 I’m currently working on... <br/>
     - :triangular_ruler: _Angular Frontend_<br/> 
