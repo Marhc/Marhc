@@ -34,6 +34,10 @@ Now, I'm the newest DevOps Junior on my team! 😆 <br/>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marciohbc@gmail.com)
 [![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@marhc)
 
+<div align="center">
+  <img height="250em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marhc&layout=compact&langs_count=7"/>
+</div>
+
 ## Technologies
 
 ### Advanced
