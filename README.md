@@ -12,7 +12,7 @@ Now, I'm the newest DevOps Junior on my team! 😆 <br/>
           **PrimeNG Components**<br/>
 
     - 🕸️  _Java Backend_<br/> 
-          **RESTful Services - JAX-RS (Jersey | Resteasy)**<br/>
+          **RESTful Services - JAX-RS (Resteasy)**<br/>
           **Persistence API - JPA (Hibernate)** <br/>
 
     - 🔃  _DevOps_<br />
